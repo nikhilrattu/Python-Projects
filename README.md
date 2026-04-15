@@ -51,6 +51,20 @@
 - City: Toronto
 - Pet: Bums
 - BandName: Toronto Bums
+
+### PROJECT 2: Tip Calculator
+
+#### In this projec, I created a tip calculator where user inputs the bill amount, no. of persons and tip percentage. Then the amount to be paid by each person is shown.
+#### Concepts used: 
+- Data Types (Strings, Float, int, Boolean)
+- Mathemtical Operations (*, +, -, /, //)
+- Assignment operators (+=, -=, *=, /=)
+- Flooring, Rounding
+#### Example:
+- Bill: 150
+- Persons: 5
+- Tip Percentage: 12
+- Amount per person: $33.60
 ---
 
 <p align="center">
