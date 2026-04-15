@@ -40,7 +40,7 @@
 
 <!-- REPLACE THESE with your actual projects -->
 
-### Project 1: Brand Name generator  
+### Project 1: [Brand Name generator](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/brand_name_generator.py) 
 
 #### It's a project which take inputs from the user to generate a Band Name
 #### Concepts used:
@@ -52,7 +52,7 @@
 - Pet: Bums
 - BandName: Toronto Bums
 
-### PROJECT 2: Tip Calculator
+### PROJECT 2: [Tip Calculator](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/Tip_Calculator.py)
 
 #### In this projec, I created a tip calculator where user inputs the bill amount, no. of persons and tip percentage. Then the amount to be paid by each person is shown.
 #### Concepts used: 
