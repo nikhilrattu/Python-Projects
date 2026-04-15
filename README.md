@@ -36,15 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ##  Featured Projects
 
 <!-- REPLACE THESE with your actual projects -->
