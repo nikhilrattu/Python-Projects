@@ -52,7 +52,7 @@
 - Pet: Bums
 - BandName: Toronto Bums
 
-### PROJECT 2: [Tip Calculator](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/Tip_Calculator.py)
+### Project 2: [Tip Calculator](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/Tip_Calculator.py)
 
 #### In this projec, I created a tip calculator where user inputs the bill amount, no. of persons and tip percentage. Then the amount to be paid by each person is shown.
 #### Concepts used: 
@@ -65,6 +65,40 @@
 - Persons: 5
 - Tip Percentage: 12
 - Amount per person: $33.60
+
+### Project 3: Treasure Island (Python Adventure Game)
+
+#### Treasure Island is a beginner-friendly, text-based adventure game built in Python. The player navigates through a series of choices in search of hidden treasure. Each decision impacts the outcome, leading to either victory or humorous failure scenarios.
+#### Concepts Used:
+- Input/Output Handling
+  Using input() to capture user decisions
+  Using print() for interactive storytelling
+- Conditional Statements
+  if, elif, and else to control game flow
+  Nested conditionals for multi-level decision paths
+- String Comparison
+  valuating user inputs to determine outcomes
+  Control Flow Design
+- Branching storylines based on player choices
+  Logical structuring of game progression
+#### Example
+-Welcome to Treasure Island
+-Your mission is to find the treasure.
+
+-Choose the direction where you wanna go left or right
+> left
+
+You pick left like a true explorer. Bold move. The island nods in approval.
+
+-Would you like to swim or wait?
+> wait
+
+You wait patiently. For once, doing nothing is the smartest thing you’ve ever done.
+
+-Would you like to enter red, yellow or blue door
+> yellow
+
+You open the yellow door… jackpot! Treasure, glory, and bragging rights unlocked. You win!
 ---
 
 <p align="center">
