@@ -103,7 +103,7 @@ You wait patiently. For once, doing nothing is the smartest thing you’ve ever 
 Would you like to enter red, yellow or blue door
 > yellow
 
-You open the yellow door… jackpot! Treasure, glory, and bragging rights unlocked. You win!
+#####You open the yellow door… jackpot! Treasure, glory, and bragging rights unlocked. You win!
 ---
 
 <p align="center">
