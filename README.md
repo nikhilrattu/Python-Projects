@@ -68,41 +68,30 @@
 
 ### Project 3: [Treasure Island (Python Adventure Game)](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/treasure_island.py)
 
-#### Treasure Island is a beginner-friendly, text-based adventure game built in Python. The player navigates through a series of choices in search of hidden treasure. Each decision impacts the outcome, leading to either victory or humorous failure scenarios.
+Text-based adventure game in Python <br>
+Player makes choices to find hidden treasure <br>
+Each decision changes the outcome (win/lose) <br>
+Simple branching storyline with interactive prompt <br>
+
 #### Concepts Used:
-- Input/Output Handling
-  Using input() to capture user decisions
-  Using print() for interactive storytelling
-- Conditional Statements
-  if, elif, and else to control game flow
-  Nested conditionals for multi-level decision paths
-- String Comparison
-  valuating user inputs to determine outcomes
-  Control Flow Design
-- Branching storylines based on player choices
-  Logical structuring of game progression
+- input() and print() for interaction
+- if-elif-else for game flow
+- nested conditionals for multiple paths
+- string comparison for user choices
+- basic control flow and branching logic
 
 #### Example:
-Welcome to Treasure Island
-Your mission is to find the treasure
-
-Choose the direction where you wanna go left or right
-> left
-
-You pick left like a true explorer. Bold move. The island nods in approval.
-
-Would you like to swim or wait?
-> wait
-
-You wait patiently. For once, doing nothing is the smartest thing you’ve ever done.
-
-Would you like to enter red, yellow or blue door
-> yellow
-
-##### You open the yellow door… jackpot! Treasure, glory, and bragging rights unlocked. You win!
+Start → Choose: left or right <br>
+left → Choose: swim or wait <br>
+wait → Choose: red, yellow, blue <br>
+yellow → You win <br>
+other choices → Game over / fail outcome <br>
 
 ### Project 4: [Rock, Paper, Scissor](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/rock_paper_scissors.py)
-Simple CLI Rock-Paper-Scissors game in Python, User inputs choice (0/1/2), Computer picks randomly, Program prints both choices + result
+Simple CLI Rock-Paper-Scissors game in Python <br>
+User inputs choice (0/1/2) <br>
+Computer picks randomly <br> 
+Program prints both choices + result 
 #### Concepts used:
 - input() for user interaction
 - if-elif for decision making
