@@ -111,6 +111,23 @@ User → Scissors,
 Computer → Paper,
 Output → You win
 
+### Project 4: [Password_generator](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/password_generator.py)
+Python-based random password generator <br>
+User defines number of letters, symbols, and numbers <br>
+Program builds and shuffles password <br>
+Outputs a secure randomized password <br>
+#### Concepts used:
+- input() and print() for user interaction
+- random.choice() for selecting characters
+- random.shuffle() for randomness
+- lists to store character sets
+- loops for password construction
+- string join() for final output
+#### Example:
+Input: letters=4, symbols=2, numbers=2 <br>
+Generated password → aB3#k!9P <br>
+Output → Your password is: aB3#k!9P <br>
+
 ---
 
 <p align="center">
