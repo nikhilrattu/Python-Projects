@@ -128,6 +128,19 @@ Input: letters=4, symbols=2, numbers=2 <br>
 Generated password → aB3#k!9P <br>
 Output → Your password is: aB3#k!9P <br>
 
+### Project 6: [Reeborg's World Maze problem](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+Maze-solving challenge using Python in Reeborg’s World <br>
+Program controls a robot to find the exit of a maze <br>
+Uses logic to navigate through unknown paths <br>
+Goal is to reach the target without getting stuck <br>
+
+#### Concepts Used: 
+- functions like move(), turn_left() for control <br>
+- if-elif-else for decision making <br>
+- loops (while) for continuous movement <br>
+- condition checks (front_is_clear, right_is_clear) <br>
+- right-wall-following algorithm for navigation <br>
+
 ---
 
 <p align="center">
