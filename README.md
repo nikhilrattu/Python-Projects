@@ -111,7 +111,7 @@ User → Scissors,
 Computer → Paper,
 Output → You win
 
-### Project 4: [Password_generator](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/password_generator.py)
+### Project 5: [Password_generator](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/password_generator.py)
 Python-based random password generator <br>
 User defines number of letters, symbols, and numbers <br>
 Program builds and shuffles password <br>
