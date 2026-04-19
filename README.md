@@ -133,7 +133,6 @@ Maze-solving challenge using Python in Reeborg’s World <br>
 Program controls a robot to find the exit of a maze <br>
 Uses logic to navigate through unknown paths <br>
 Goal is to reach the target without getting stuck <br>
-
 #### Concepts Used: 
 - functions like move(), turn_left() for control <br>
 - if-elif-else for decision making <br>
@@ -141,6 +140,26 @@ Goal is to reach the target without getting stuck <br>
 - condition checks (front_is_clear, right_is_clear) <br>
 - right-wall-following algorithm for navigation <br>
 
+### Project 7: [Hangman game using python](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/hangman.py)
+CLI-based Hangman game in Python <br>
+Player guesses letters to reveal a hidden word <br>
+Limited lives system with visual stages <br>
+Game ends on win (word guessed) or loss (lives = 0) <br>
+#### Concepts Used:
+- input() and print() for interaction
+- random.choice() for word selection
+- while loop for game progression
+- if-else for logic handling
+- lists to track guessed letters
+- string building for word display
+- basic game state management (lives, win/lose)
+#### Example:
+Word: _ _ _ _ _ <br>
+Guess: a → correct → a _ _ _ _ <br>
+Guess: z → wrong → lose life <br>
+...  <br>
+Complete word → You win <br>
+Lives reach 0 → You lose <br>
 ---
 
 <p align="center">
