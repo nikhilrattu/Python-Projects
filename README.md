@@ -195,9 +195,9 @@ Winner is announced at the end <br>
 User1 → bid: 100 <br>
 User2 → bid: 150 <br>
 User3 → bid: 120 <br>
-
 All bids hidden during input <br>
 Final output → User2 wins with 150 <br>
+
 ---
 
 <p align="center">
