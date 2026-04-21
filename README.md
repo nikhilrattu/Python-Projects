@@ -172,13 +172,32 @@ Basic cryptography technique for secure message transformation <br>
 - if-else for handling letters and symbols
 - functions for encryption/decryption logic
 - basic cryptography (Caesar shift algorithm)
-#### Examples:
+#### Example:
 Input: text = hello, shift = 3 <br>
 Output → khoor <br>
 
 Input: text = khoor, shift = 3 (decode) <br>
 Output → hello <br>
 
+### Project 9: [Blind Auction[(https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/Blind_Auction.py)
+Python-based Blind Auction program <br>
+Multiple users place bids secretly <br>
+Program stores bids and determines highest bidder <br>
+Winner is announced at the end <br>
+#### Concepts Used:
+- input() and print() for interaction
+- dictionaries to store bidder names and bids
+- loops for multiple participants
+- if-else for control flow
+- functions to find highest bid
+- basic auction logic (sealed/hidden bids)
+#### Example:
+User1 → bid: 100 <br>
+User2 → bid: 150 <br>
+User3 → bid: 120 <br>
+
+All bids hidden during input <br>
+Final output → User2 wins with 150 <br>
 ---
 
 <p align="center">
