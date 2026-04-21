@@ -160,6 +160,25 @@ Guess: z → wrong → lose life <br>
 ...  <br>
 Complete word → You win <br>
 Lives reach 0 → You lose <br>
+### Prjoect 8: Caeser Cipher
+Python implementation of Caesar Cipher encryption/decryption <br>
+User inputs message and shift value <br>
+Program shifts characters to encode or decode text <br>
+Basic cryptography technique for secure message transformation <br>
+#### Concepts Used: 
+- input() and print() for interaction
+- loops for iterating through text
+- string manipulation for shifting characters
+- if-else for handling letters and symbols
+- functions for encryption/decryption logic
+- basic cryptography (Caesar shift algorithm)
+#### Examples:
+Input: text = hello, shift = 3 <br>
+Output → khoor <br>
+
+Input: text = khoor, shift = 3 (decode) <br>
+Output → hello <br>
+
 ---
 
 <p align="center">
