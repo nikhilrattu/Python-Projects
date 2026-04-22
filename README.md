@@ -198,6 +198,29 @@ User3 → bid: 120 <br>
 All bids hidden during input <br>
 Final output → User2 wins with 150 <br>
 
+### Project 10: [Calculator](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/calculator.py)
+Interactive CLI calculator in Python <br>
+Supports continuous calculations using previous result <br>
+User selects operation and inputs numbers <br>
+Program loops until user chooses to exit <br>
+#### Concepts Used: 
+- functions for arithmetic operations
+- dictionary mapping operators to functions
+- input() and print() for interaction
+- while loop for continuous execution
+- if-else for flow control
+- function recursion to restart program
+#### Example:
+Input: 5 <br>
+Operation: + <br>
+Input: 3 <br>
+Output → 8 <br>
+
+Continue (y) → next number: 2 <br>
+Output → 10 <br>
+
+Exit (n) → program restarts <br>
+
 ---
 
 <p align="center">
