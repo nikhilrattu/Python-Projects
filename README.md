@@ -221,6 +221,31 @@ Output → 10 <br>
 
 Exit (n) → program restarts <br>
 
+### Project 11:[Black Jack game](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/BlackJack.py)
+CLI-based Blackjack game in Python <br> 
+User plays against computer (dealer) <br>
+Cards are randomly dealt and scores are calculated <br>
+Implements basic Blackjack rules including Ace handling and dealer logic <br>
+#### Concepts Used:
+- functions for modular game logic
+- random.choice() for card dealing
+- lists to store player and dealer cards
+- while loops for game flow
+- if-else for decision making and outcomes
+- basic game rules (Blackjack, bust, dealer draw logic)
+#### Example:
+Start game → deal 2 cards each <br>
+User: [10, 7] → score 17 <br>
+Computer shows: [9, _] <br>
+
+User chooses: hit (y) → gets 5 → score 22 <br>
+Output → You went over. You lose <br>
+
+OR <br>
+
+User stands → dealer draws → final comparison <br>
+Output → You win / lose / draw <br>
+
 ---
 
 <p align="center">
