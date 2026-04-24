@@ -221,7 +221,7 @@ Output → 10 <br>
 
 Exit (n) → program restarts <br>
 
-### Project 11:[Black Jack game](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/BlackJack.py)
+### Project 11: [Black Jack game](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/BlackJack.py)
 CLI-based Blackjack game in Python <br> 
 User plays against computer (dealer) <br>
 Cards are randomly dealt and scores are calculated <br>
@@ -245,6 +245,28 @@ OR <br>
 
 User stands → dealer draws → final comparison <br>
 Output → You win / lose / draw <br>
+
+### Project 12: [The Number guessing game](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/TheNumberGuuessingGame.py)
+Number guessing game in Python <br>
+Player guesses a randomly generated number (1–50) <br>
+Difficulty levels control number of attempts <br>
+Game provides hints (too high / too low) until win or attempts run out <br>
+#### Concepts Used:
+- input() and print() for interaction
+- random.randint() for number generation
+- functions for modular design
+- while loops for game flow
+- if-else for guess evaluation
+- basic state management (attempts, win/lose)
+#### Example:
+Choose difficulty → easy (10 attempts) <br>
+Guess: 25 → Too high <br>
+Guess: 10 → Too low <br>
+Guess: 18 → Correct <br>
+
+OR
+
+Attempts खत्म → Output → You lost, number was X <br>
 
 ---
 
