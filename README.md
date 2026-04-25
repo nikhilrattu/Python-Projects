@@ -266,7 +266,30 @@ Guess: 18 → Correct <br>
 
 OR
 
-Attempts खत्म → Output → You lost, number was X <br>
+Attempts finished → Output → You lost, number was X <br>
+
+### Project 13: [Higher Lower game](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/Higherlower_game.py)
+CLI-based “Higher Lower” game in Python <br>
+Player compares two accounts and guesses who has more followers <br>
+Score increases for correct guesses <br>
+Game ends on wrong answer <br>
+#### Concepts Used:
+- random.choice() for selecting accounts
+- dictionaries for storing account data
+- functions for formatting and checking answers
+- while loop for continuous gameplay
+- if-else for result evaluation
+- basic score tracking system
+#### Example:
+Compare A: Person1, actor, USA <br>
+vs
+Against B: Person2, singer, UK <br>
+
+Input → A <br>
+Correct → score = 1 <br>
+
+Next round continues <br>
+Wrong guess → Game over, final score displayed <br>
 
 ---
 
