@@ -291,6 +291,30 @@ Correct → score = 1 <br>
 Next round continues <br>
 Wrong guess → Game over, final score displayed <br>
 
+### Project 14: [Coffee Machine](https://github.com/nikhilrattu/Python-Projects/blob/main/Python-Projects/coffee_machine.py)
+CLI-based Coffee Machine simulation in Python <br>
+User selects drinks (espresso, latte, cappuccino) <br>
+Program checks resources, processes coins, and serves coffee <br>
+Tracks ingredients and money like a real machine <br>
+#### Concepts Used:
+- dictionaries for menu and resources
+- functions for modular operations
+- if-else for decision making
+- loops for continuous operation
+- input() and print() for interaction
+- basic resource and transaction management
+#### Example:
+Input → latte <br>
+Check → sufficient resources <br>
+Insert coins → payment processed <br>
+Output → “Here is your latte” <br>
+
+Input → report <br>
+Output → shows water, milk, coffee, and money <br>
+
+Input → off <br>
+Machine shuts down <br>
+
 ---
 
 <p align="center">
