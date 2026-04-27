@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hey there , I'm Nikhil Rattu</h1>
 
 <h2 align="center">Data Scientist | Turning Data into Decisions</h3>
