@@ -302,7 +302,7 @@ Tracks ingredients and money like a real machine <br>
 - loops for continuous operation
 - input() and print() for interaction
 - basic resource and transaction management
-#### Example:
+#### Example :
 Input → latte <br>
 Check → sufficient resources <br>
 Insert coins → payment processed <br>
